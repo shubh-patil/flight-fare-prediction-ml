@@ -17,7 +17,6 @@ Arrival Time
 Number of Stops
 Travel Class
 Duration
-Days Left Before Journey
 Flight Price (Target Variable)
 🎯 Problem Statement
 
